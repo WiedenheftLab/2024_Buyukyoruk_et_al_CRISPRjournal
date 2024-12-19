@@ -1,0 +1,3 @@
+Array	IIA_Bacillota_motif_5_1	IIA_Bacillota_motif_5_1_pvalue
+Random_seq_228	147	0.329588910314
+Random_seq_278	78	0.32859920731

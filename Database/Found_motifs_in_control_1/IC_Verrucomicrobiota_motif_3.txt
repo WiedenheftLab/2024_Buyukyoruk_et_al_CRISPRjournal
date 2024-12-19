@@ -1,0 +1,11 @@
+Array	IC_Verrucomicrobiota_motif_3_1	IC_Verrucomicrobiota_motif_3_1_pvalue
+Random_seq_178	47	0.816206171048
+Random_seq_203	31	0.792434292639
+Random_seq_207	95	0.824780226998
+Random_seq_246	154	0.816206171048
+Random_seq_348	164	0.77458793501
+Random_seq_384	51	0.907775764377
+Random_seq_46	114	0.832862764758
+Random_seq_794	6	0.761006243083
+Random_seq_915	113	0.799056109027
+Random_seq_996	120	0.945493780067

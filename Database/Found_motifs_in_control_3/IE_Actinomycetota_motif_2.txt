@@ -1,0 +1,5 @@
+Array	IE_Actinomycetota_motif_2_1	IE_Actinomycetota_motif_2_1_pvalue
+Random_seq_613	103	0.755156500397
+Random_seq_65	113	0.794341329407
+Random_seq_683	131	0.751549775174
+Random_seq_805	159	0.811467768255

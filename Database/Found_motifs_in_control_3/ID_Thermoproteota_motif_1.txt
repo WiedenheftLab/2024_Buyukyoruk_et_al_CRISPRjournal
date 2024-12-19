@@ -1,0 +1,14 @@
+Array	ID_Thermoproteota_motif_1_1	ID_Thermoproteota_motif_1_1_pvalue
+Random_seq_194	100	0.936775452627
+Random_seq_23	32	1.0
+Random_seq_299	75	0.936775452627
+Random_seq_340	115	0.936775452627
+Random_seq_454	75	0.893391065888
+Random_seq_499	193	0.893391065888
+Random_seq_60	36	0.872785976613
+Random_seq_635	94	1.0
+Random_seq_706	193	0.893391065888
+Random_seq_713	35	0.936775452627
+Random_seq_76	150	0.893391065888
+Random_seq_782	114	0.872785976613
+Random_seq_803	159	0.936775452627

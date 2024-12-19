@@ -1,0 +1,5 @@
+Array	IIC_Bacteroidota_motif_9_1	IIC_Bacteroidota_motif_9_1_pvalue
+Random_seq_296	125	0.330286997215
+Random_seq_342	181	0.339419080958
+Random_seq_419	182	0.34342998358
+Random_seq_560	79	0.310092752759

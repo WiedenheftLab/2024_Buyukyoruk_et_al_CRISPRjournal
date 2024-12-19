@@ -1,0 +1,6 @@
+Array	IC_Cyanobacteriota_motif_1_1	IC_Cyanobacteriota_motif_1_1_pvalue
+Random_seq_137	20	0.745744750144
+Random_seq_159	110	0.744097364629
+Random_seq_162	61	0.955283447729
+Random_seq_40	88	0.734195522501
+Random_seq_406	98	0.754203058315

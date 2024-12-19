@@ -1,0 +1,11 @@
+Array	ID_Euryarchaeota_motif_2_1	ID_Euryarchaeota_motif_2_1_pvalue
+Random_seq_111	99	0.375675292549
+Random_seq_190	79	0.366976869005
+Random_seq_305	115	0.384684207567
+Random_seq_607	81	0.36547391204
+Random_seq_727	172	0.426106804147
+Random_seq_763	89	0.37489212874
+Random_seq_770	173	0.368872020713
+Random_seq_810	103	0.40599688105
+Random_seq_883	108	0.413059367183
+Random_seq_911	170	0.431417082597

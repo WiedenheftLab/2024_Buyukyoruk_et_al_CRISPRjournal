@@ -1,0 +1,7 @@
+Array	VK_Cyanobacteriota_motif_1_1	VK_Cyanobacteriota_motif_1_1_pvalue
+Random_seq_302	68	0.256598548185
+Random_seq_353	111	0.266982034316
+Random_seq_419	139	0.254384765246
+Random_seq_542	100	0.260644960066
+Random_seq_667	74	0.252879424386
+Random_seq_805	141	0.307254733546

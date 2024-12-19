@@ -1,0 +1,6 @@
+Array	IIA_Bacillota_motif_2_1	IIA_Bacillota_motif_2_1_pvalue
+Random_seq_216	59	0.329021177045
+Random_seq_273	149	0.330422016064
+Random_seq_520	111	0.330422016064
+Random_seq_659	76	0.304557286445
+Random_seq_753	174	0.35219155381

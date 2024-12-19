@@ -1,0 +1,2 @@
+Array	IIIA_Pseudomonadota_motif_1_1	IIIA_Pseudomonadota_motif_1_1_pvalue
+HQ641352.1_Array_1	90	0.46394522865

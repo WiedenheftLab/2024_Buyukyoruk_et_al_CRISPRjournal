@@ -1,0 +1,4 @@
+Array	IA_Thermoproteota_motif_1_1	IA_Thermoproteota_motif_1_1_pvalue
+Random_seq_216	57	0.672570454089
+Random_seq_301	93	0.663634602681
+Random_seq_499	76	0.751774304707

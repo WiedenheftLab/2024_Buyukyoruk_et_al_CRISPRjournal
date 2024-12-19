@@ -1,0 +1,2 @@
+Array	IE_Actinomycetota_motif_2_1	IE_Actinomycetota_motif_2_1_pvalue
+HQ641352.1_Array_2	64	0.694624865774

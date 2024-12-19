@@ -1,0 +1,9 @@
+Array	IIC_Bacteroidota_motif_7_1	IIC_Bacteroidota_motif_7_1_pvalue
+Random_seq_1	141	0.717922011001
+Random_seq_347	146	0.553059462421
+Random_seq_367	95	0.630297312662
+Random_seq_476	178	0.585039176179
+Random_seq_652	129	0.560294563128
+Random_seq_663	179	0.567567043677
+Random_seq_722	35	0.731685814718
+Random_seq_805	13	0.565733386376

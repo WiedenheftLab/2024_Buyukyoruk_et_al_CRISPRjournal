@@ -1,0 +1,7 @@
+Array	ID_Cyanobacteriota_motif_2_1	ID_Cyanobacteriota_motif_2_1_pvalue
+Random_seq_285	122	0.554195754477
+Random_seq_411	183	0.503162656657
+Random_seq_508	20	0.549592612889
+Random_seq_816	13	0.482104424756
+Random_seq_818	168	0.484486846097
+Random_seq_850	45	0.475502617759

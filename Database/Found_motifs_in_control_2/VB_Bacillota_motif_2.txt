@@ -1,0 +1,37 @@
+Array	VB_Bacillota_motif_2_1	VB_Bacillota_motif_2_1_pvalue	VB_Bacillota_motif_2_2	VB_Bacillota_motif_2_2_pvalue
+Random_seq_140	96	0.940478297964
+Random_seq_146	152	0.940478297964
+Random_seq_154	14	1.0
+Random_seq_161	127	0.940478297964
+Random_seq_193	20	0.940478297964
+Random_seq_220	155	1.0
+Random_seq_244	29	0.940478297964
+Random_seq_320	74	0.940478297964
+Random_seq_329	34	0.940478297964
+Random_seq_358	152	1.0	58	1.0
+Random_seq_399	129	0.940478297964
+Random_seq_403	82	1.0
+Random_seq_407	56	0.940478297964
+Random_seq_409	157	0.940478297964
+Random_seq_424	179	1.0
+Random_seq_430	17	0.940478297964
+Random_seq_437	112	0.940478297964
+Random_seq_452	179	0.940478297964
+Random_seq_471	23	0.940478297964
+Random_seq_521	179	0.940478297964
+Random_seq_525	115	1.0
+Random_seq_547	96	0.940478297964
+Random_seq_555	108	0.940478297964
+Random_seq_569	182	1.0
+Random_seq_643	83	0.940478297964
+Random_seq_660	80	0.940478297964
+Random_seq_716	130	1.0
+Random_seq_766	95	1.0
+Random_seq_80	171	1.0
+Random_seq_802	123	1.0
+Random_seq_854	137	1.0	33	0.940478297964
+Random_seq_879	68	0.940478297964
+Random_seq_937	69	0.940478297964
+Random_seq_943	138	1.0
+Random_seq_951	103	1.0
+Random_seq_96	20	0.940478297964

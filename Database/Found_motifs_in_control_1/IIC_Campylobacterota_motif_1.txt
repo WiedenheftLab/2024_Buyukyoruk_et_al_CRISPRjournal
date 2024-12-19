@@ -1,0 +1,7 @@
+Array	IIC_Campylobacterota_motif_1_1	IIC_Campylobacterota_motif_1_1_pvalue	IIC_Campylobacterota_motif_1_2	IIC_Campylobacterota_motif_1_2_pvalue
+Random_seq_149	126	0.841238580695
+Random_seq_178	187	0.830652849974
+Random_seq_190	57	0.884822301087	161	0.763958288354
+Random_seq_465	170	0.850900764085
+Random_seq_468	166	1.09011247114
+Random_seq_584	49	0.761050878199

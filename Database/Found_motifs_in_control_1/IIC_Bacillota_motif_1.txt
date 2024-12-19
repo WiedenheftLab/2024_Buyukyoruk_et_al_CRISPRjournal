@@ -1,0 +1,8 @@
+Array	IIC_Bacillota_motif_1_1	IIC_Bacillota_motif_1_1_pvalue	IIC_Bacillota_motif_1_2	IIC_Bacillota_motif_1_2_pvalue
+Random_seq_117	11	0.90103319368
+Random_seq_158	106	1.0
+Random_seq_184	30	0.90103319368
+Random_seq_236	187	1.0	41	1.0
+Random_seq_29	128	0.854540245725
+Random_seq_546	73	0.854540245725
+Random_seq_615	40	0.873932468647	117	0.854540245725

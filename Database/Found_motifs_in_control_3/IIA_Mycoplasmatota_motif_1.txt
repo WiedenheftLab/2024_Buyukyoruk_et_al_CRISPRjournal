@@ -1,0 +1,5 @@
+Array	IIA_Mycoplasmatota_motif_1_1	IIA_Mycoplasmatota_motif_1_1_pvalue
+Random_seq_369	148	0.33208125344
+Random_seq_570	70	0.348653434932
+Random_seq_618	58	0.340910277731
+Random_seq_652	179	0.322574681213

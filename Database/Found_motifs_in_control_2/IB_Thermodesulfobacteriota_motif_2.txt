@@ -1,0 +1,4 @@
+Array	IB_Thermodesulfobacteriota_motif_2_1	IB_Thermodesulfobacteriota_motif_2_1_pvalue
+Random_seq_145	180	0.925911925469
+Random_seq_371	94	0.925911925469
+Random_seq_986	189	0.897974073295

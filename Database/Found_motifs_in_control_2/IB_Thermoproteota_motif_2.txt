@@ -1,0 +1,11 @@
+Array	IB_Thermoproteota_motif_2_1	IB_Thermoproteota_motif_2_1_pvalue
+Random_seq_305	24	0.346923086899
+Random_seq_343	146	0.335419881137
+Random_seq_439	161	0.317806855063
+Random_seq_518	153	0.374442879205
+Random_seq_63	63	0.31362341937
+Random_seq_632	38	0.328502291747
+Random_seq_747	71	0.346477027056
+Random_seq_779	132	0.31711213413
+Random_seq_883	64	0.298126988749
+Random_seq_892	26	0.328378536596

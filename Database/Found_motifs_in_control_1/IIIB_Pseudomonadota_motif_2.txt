@@ -1,0 +1,2 @@
+Array	IIIB_Pseudomonadota_motif_2_1	IIIB_Pseudomonadota_motif_2_1_pvalue
+Random_seq_106	183	0.574751299242

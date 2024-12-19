@@ -1,0 +1,6 @@
+Array	VB_Bacillota_motif_1_1	VB_Bacillota_motif_1_1_pvalue
+Random_seq_162	84	0.805264480033
+Random_seq_382	26	0.871587217357
+Random_seq_587	140	0.804691977909
+Random_seq_756	189	0.746198472305
+Random_seq_79	82	0.701594740119

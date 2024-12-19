@@ -1,0 +1,13 @@
+Array	IIIB_Myxococcota_motif_1_1	IIIB_Myxococcota_motif_1_1_pvalue	IIIB_Myxococcota_motif_1_2	IIIB_Myxococcota_motif_1_2_pvalue
+Random_seq_181	76	0.978875204102
+Random_seq_230	40	0.868938458585
+Random_seq_39	36	1.09455902375
+Random_seq_391	181	1.0058272853
+Random_seq_436	161	0.935390504818
+Random_seq_437	98	0.951005700781
+Random_seq_492	64	0.869961301255	142	0.868938458585
+Random_seq_564	173	0.900271056316
+Random_seq_581	10	0.935390504818
+Random_seq_613	91	1.19861262753
+Random_seq_685	75	0.868070930381
+Random_seq_835	139	0.960168790431

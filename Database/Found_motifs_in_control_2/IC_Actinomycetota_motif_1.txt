@@ -1,0 +1,13 @@
+Array	IC_Actinomycetota_motif_1_1	IC_Actinomycetota_motif_1_1_pvalue
+Random_seq_14	126	0.761504148574
+Random_seq_246	22	0.901531429965
+Random_seq_368	50	0.781367720616
+Random_seq_385	66	0.80119784674
+Random_seq_466	50	1.0
+Random_seq_606	131	0.842449741713
+Random_seq_631	186	0.781367720616
+Random_seq_712	98	0.80119784674
+Random_seq_763	8	0.771826368244
+Random_seq_87	21	0.750501712417
+Random_seq_894	8	0.737717627296
+Random_seq_98	59	0.766439250949

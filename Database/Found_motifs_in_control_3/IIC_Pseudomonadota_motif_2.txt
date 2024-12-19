@@ -1,0 +1,8 @@
+Array	IIC_Pseudomonadota_motif_2_1	IIC_Pseudomonadota_motif_2_1_pvalue
+Random_seq_191	176	0.447389260067
+Random_seq_288	187	0.464327309544
+Random_seq_317	53	0.521211379375
+Random_seq_392	41	0.492104792844
+Random_seq_408	63	0.430243406859
+Random_seq_450	54	0.490832639659
+Random_seq_792	12	0.532672982579

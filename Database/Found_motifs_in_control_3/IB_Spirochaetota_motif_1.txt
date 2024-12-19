@@ -1,0 +1,6 @@
+Array	IB_Spirochaetota_motif_1_1	IB_Spirochaetota_motif_1_1_pvalue
+Random_seq_279	131	0.392377864548
+Random_seq_550	102	0.442654826253
+Random_seq_714	96	0.440842335894
+Random_seq_718	62	0.424433326493
+Random_seq_735	111	0.397706804949

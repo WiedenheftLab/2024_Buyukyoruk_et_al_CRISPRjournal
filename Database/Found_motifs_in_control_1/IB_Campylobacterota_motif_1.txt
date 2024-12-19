@@ -1,0 +1,7 @@
+Array	IB_Campylobacterota_motif_1_1	IB_Campylobacterota_motif_1_1_pvalue
+Random_seq_251	72	0.879765853772
+Random_seq_270	13	0.783597173237
+Random_seq_276	38	0.700074560149
+Random_seq_502	170	0.714340468531
+Random_seq_552	31	0.712753349421
+Random_seq_589	171	0.805071112361

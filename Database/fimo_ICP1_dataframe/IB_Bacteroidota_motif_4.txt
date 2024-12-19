@@ -1,0 +1,2 @@
+Array	IB_Bacteroidota_motif_4_1	IB_Bacteroidota_motif_4_1_pvalue
+HQ641352.1_Array_2	21	0.71769780765

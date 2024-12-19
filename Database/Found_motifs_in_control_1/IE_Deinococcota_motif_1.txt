@@ -1,0 +1,10 @@
+Array	IE_Deinococcota_motif_1_1	IE_Deinococcota_motif_1_1_pvalue
+Random_seq_133	29	0.723046392917
+Random_seq_199	152	0.73403006149
+Random_seq_308	63	0.941143846598
+Random_seq_342	31	0.808326028419
+Random_seq_351	128	0.714713680325
+Random_seq_492	55	0.788742582698
+Random_seq_574	92	0.739512729205
+Random_seq_843	191	0.763825058419
+Random_seq_933	193	0.737976432745

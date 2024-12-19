@@ -1,0 +1,7 @@
+Array	IF_Pseudomonadota_motif_8_1	IF_Pseudomonadota_motif_8_1_pvalue
+Random_seq_103	164	0.675270138218
+Random_seq_208	157	0.536584512783
+Random_seq_563	21	0.509727730549
+Random_seq_828	109	0.580386959604
+Random_seq_846	81	0.504558652266
+Random_seq_847	88	0.501450040998

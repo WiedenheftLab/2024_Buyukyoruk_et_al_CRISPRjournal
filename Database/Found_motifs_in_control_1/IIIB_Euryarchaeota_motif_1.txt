@@ -1,0 +1,12 @@
+Array	IIIB_Euryarchaeota_motif_1_1	IIIB_Euryarchaeota_motif_1_1_pvalue
+Random_seq_128	75	0.448232569014
+Random_seq_183	96	0.436370129599
+Random_seq_242	33	0.45220147459
+Random_seq_26	168	0.441729361012
+Random_seq_273	143	0.423774767615
+Random_seq_382	142	0.407860346724
+Random_seq_402	102	0.415068604759
+Random_seq_432	105	0.387869865255
+Random_seq_625	87	0.392440311727
+Random_seq_795	70	0.415562966518
+Random_seq_938	21	0.512567581213

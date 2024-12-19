@@ -1,0 +1,5 @@
+Array	IB_Euryarchaeota_motif_9_1	IB_Euryarchaeota_motif_9_1_pvalue
+Random_seq_162	116	0.930693427298
+Random_seq_381	107	1.0
+Random_seq_382	104	1.0
+Random_seq_437	74	1.0

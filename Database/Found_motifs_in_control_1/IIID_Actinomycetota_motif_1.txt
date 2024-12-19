@@ -1,0 +1,9 @@
+Array	IIID_Actinomycetota_motif_1_1	IIID_Actinomycetota_motif_1_1_pvalue
+Random_seq_240	155	0.477803719928
+Random_seq_258	142	0.691076629153
+Random_seq_425	179	0.494283301323
+Random_seq_426	118	0.501066015055
+Random_seq_43	13	0.479366324992
+Random_seq_716	65	0.601252229236
+Random_seq_728	41	0.481763497736
+Random_seq_844	91	0.505549641567

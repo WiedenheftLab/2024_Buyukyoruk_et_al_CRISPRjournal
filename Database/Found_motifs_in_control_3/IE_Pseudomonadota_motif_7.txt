@@ -1,0 +1,8 @@
+Array	IE_Pseudomonadota_motif_7_1	IE_Pseudomonadota_motif_7_1_pvalue
+Random_seq_15	142	0.377307291572
+Random_seq_165	82	0.360894804073
+Random_seq_360	59	0.355175166778
+Random_seq_398	61	0.360894804073
+Random_seq_471	59	0.398003038907
+Random_seq_564	52	0.364185208173
+Random_seq_732	85	0.387232211584

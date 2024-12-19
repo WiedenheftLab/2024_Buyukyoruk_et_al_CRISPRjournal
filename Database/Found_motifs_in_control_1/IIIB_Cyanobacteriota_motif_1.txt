@@ -1,0 +1,8 @@
+Array	IIIB_Cyanobacteriota_motif_1_1	IIIB_Cyanobacteriota_motif_1_1_pvalue
+Random_seq_249	98	0.285364020447
+Random_seq_343	58	0.275533878624
+Random_seq_4	99	0.274847990429
+Random_seq_419	29	0.296937388338
+Random_seq_459	48	0.307989009173
+Random_seq_531	104	0.283528758777
+Random_seq_796	171	0.290573741579

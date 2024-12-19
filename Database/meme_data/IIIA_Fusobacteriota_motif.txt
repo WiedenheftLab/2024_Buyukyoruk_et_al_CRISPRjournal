@@ -1,0 +1,19 @@
+MEME version 5.5.3
+
+ALPHABET= ACGT
+
+strands: +
+
+Background letter frequencies (from ../bac_arc_db_07112023_CRISPRDetect3_default_08042023_new_ref_200bp_no_repeat_triple_annotation_cleaned_above_200bp_IIIA_Fusobacteriota_currated_uclust_75_bg.txt):
+ A 0.385 C 0.115 G 0.115 T 0.385
+
+MOTIF 1 MEME-2
+
+letter-probability matrix: alength= 4 w= 7 nsites= 13 E= 9.6e-001
+ 0.230769  0.384615  0.384615  0.000000
+ 0.000000  0.230769  0.000000  0.769231
+ 0.538462  0.000000  0.384615  0.076923
+ 0.538462  0.000000  0.000000  0.461538
+ 0.461538  0.000000  0.538462  0.000000
+ 0.384615  0.000000  0.615385  0.000000
+ 0.000000  0.000000  1.000000  0.000000

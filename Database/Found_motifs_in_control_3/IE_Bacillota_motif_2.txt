@@ -1,0 +1,5 @@
+Array	IE_Bacillota_motif_2_1	IE_Bacillota_motif_2_1_pvalue
+Random_seq_129	108	0.371494323398
+Random_seq_228	167	0.395398065431
+Random_seq_442	92	0.359247380557
+Random_seq_516	56	0.36719965066

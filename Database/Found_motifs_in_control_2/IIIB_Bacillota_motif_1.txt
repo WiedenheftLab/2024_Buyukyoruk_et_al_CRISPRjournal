@@ -1,0 +1,5 @@
+Array	IIIB_Bacillota_motif_1_1	IIIB_Bacillota_motif_1_1_pvalue
+Random_seq_226	31	0.640536178005
+Random_seq_271	162	0.659580202964
+Random_seq_370	187	0.597069429205
+Random_seq_549	126	0.575218392686

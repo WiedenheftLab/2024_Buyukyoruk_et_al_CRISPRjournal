@@ -1,0 +1,2 @@
+Array	IIC_Bacteroidota_motif_5_1	IIC_Bacteroidota_motif_5_1_pvalue
+HQ641352.1_Array_1	154	0.498625388749

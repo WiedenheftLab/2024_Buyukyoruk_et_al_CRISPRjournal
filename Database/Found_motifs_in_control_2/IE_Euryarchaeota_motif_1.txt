@@ -1,0 +1,2 @@
+Array	IE_Euryarchaeota_motif_1_1	IE_Euryarchaeota_motif_1_1_pvalue
+Random_seq_462	42	1.075948151

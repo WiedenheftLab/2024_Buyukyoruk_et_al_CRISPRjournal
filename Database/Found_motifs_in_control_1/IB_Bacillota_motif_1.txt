@@ -1,0 +1,8 @@
+Array	IB_Bacillota_motif_1_1	IB_Bacillota_motif_1_1_pvalue
+Random_seq_1000	86	0.378909157108
+Random_seq_193	80	0.352096562543
+Random_seq_251	170	0.35018368333
+Random_seq_26	64	0.347967326373
+Random_seq_538	168	0.36655569254
+Random_seq_610	25	0.358978961357
+Random_seq_63	111	0.386018908561

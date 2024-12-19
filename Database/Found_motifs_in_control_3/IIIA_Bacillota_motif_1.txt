@@ -1,0 +1,6 @@
+Array	IIIA_Bacillota_motif_1_1	IIIA_Bacillota_motif_1_1_pvalue
+Random_seq_154	129	0.637977323102
+Random_seq_198	107	0.563321352105
+Random_seq_256	100	0.524630152409
+Random_seq_591	38	0.583871538729
+Random_seq_608	13	0.533905255396

@@ -1,0 +1,16 @@
+Array	IB_Bacteroidota_motif_1_1	IB_Bacteroidota_motif_1_1_pvalue
+Random_seq_1	70	1.0
+Random_seq_125	101	1.0
+Random_seq_161	16	1.0
+Random_seq_167	113	1.0
+Random_seq_273	122	1.0
+Random_seq_357	131	1.0
+Random_seq_403	115	1.0
+Random_seq_50	66	1.0
+Random_seq_529	75	1.0
+Random_seq_58	101	1.0
+Random_seq_632	41	1.0
+Random_seq_662	49	1.0
+Random_seq_685	101	1.0
+Random_seq_727	5	1.0
+Random_seq_858	63	1.0

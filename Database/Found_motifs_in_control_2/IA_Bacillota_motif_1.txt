@@ -1,0 +1,4 @@
+Array	IA_Bacillota_motif_1_1	IA_Bacillota_motif_1_1_pvalue
+Random_seq_249	58	0.498605214118
+Random_seq_281	149	0.589080913712
+Random_seq_778	126	0.645471931888

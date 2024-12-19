@@ -1,0 +1,22 @@
+MEME version 5.5.3
+
+ALPHABET= ACGT
+
+strands: +
+
+Background letter frequencies (from ../bac_arc_db_07112023_CRISPRDetect3_default_08042023_new_ref_200bp_no_repeat_triple_annotation_cleaned_above_200bp_IE_Euryarchaeota_currated_uclust_75_bg.txt):
+ A 0.313 C 0.187 G 0.187 T 0.313
+
+MOTIF 1 MEME-1
+
+letter-probability matrix: alength= 4 w= 10 nsites= 31 E= 4.1e-001
+ 0.516129  0.483871  0.000000  0.000000
+ 0.354839  0.129032  0.483871  0.032258
+ 0.483871  0.000000  0.516129  0.000000
+ 0.096774  0.129032  0.161290  0.612903
+ 0.516129  0.032258  0.354839  0.096774
+ 0.129032  0.000000  0.741935  0.129032
+ 0.870968  0.000000  0.129032  0.000000
+ 0.548387  0.000000  0.000000  0.451613
+ 0.354839  0.064516  0.580645  0.000000
+ 0.516129  0.096774  0.387097  0.000000

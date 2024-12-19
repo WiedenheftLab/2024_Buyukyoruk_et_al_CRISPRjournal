@@ -1,0 +1,6 @@
+Array	IF_Pseudomonadota_motif_10_1	IF_Pseudomonadota_motif_10_1_pvalue	IF_Pseudomonadota_motif_10_2	IF_Pseudomonadota_motif_10_2_pvalue
+Random_seq_299	152	0.43980604039
+Random_seq_381	135	0.451802707882
+Random_seq_423	23	0.378112339993
+Random_seq_634	24	0.386892435134
+Random_seq_827	162	0.394490647747	48	0.3866084406

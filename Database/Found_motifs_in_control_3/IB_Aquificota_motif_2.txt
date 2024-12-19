@@ -1,0 +1,8 @@
+Array	IB_Aquificota_motif_2_1	IB_Aquificota_motif_2_1_pvalue
+Random_seq_160	95	0.822922966629
+Random_seq_369	110	1.0
+Random_seq_408	40	1.0
+Random_seq_476	29	0.805019986739
+Random_seq_50	39	0.847921091437
+Random_seq_524	128	0.815226282136
+Random_seq_577	161	0.799954522682

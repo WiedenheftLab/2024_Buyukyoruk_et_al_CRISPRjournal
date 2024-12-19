@@ -1,0 +1,10 @@
+Array	IE_Spirochaetota_motif_1_1	IE_Spirochaetota_motif_1_1_pvalue
+Random_seq_105	118	0.650642928304
+Random_seq_144	15	0.630120920402
+Random_seq_181	34	0.748842377357
+Random_seq_39	83	0.644342464821
+Random_seq_461	14	0.711728125708
+Random_seq_59	61	0.695932919319
+Random_seq_631	154	0.722871208091
+Random_seq_814	63	0.648247744962
+Random_seq_820	16	0.709026403781

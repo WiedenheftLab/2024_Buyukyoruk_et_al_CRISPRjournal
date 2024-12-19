@@ -1,0 +1,3 @@
+Array	IC_Planctomycetota_motif_1_1	IC_Planctomycetota_motif_1_1_pvalue
+Random_seq_370	142	1.0
+Random_seq_588	153	0.943396407987

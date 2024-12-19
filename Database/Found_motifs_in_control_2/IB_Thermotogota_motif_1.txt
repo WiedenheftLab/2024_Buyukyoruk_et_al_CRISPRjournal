@@ -1,0 +1,2 @@
+Array	IB_Thermotogota_motif_1_1	IB_Thermotogota_motif_1_1_pvalue
+Random_seq_544	23	0.330224616804

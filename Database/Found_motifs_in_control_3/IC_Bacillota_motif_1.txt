@@ -1,0 +1,2 @@
+Array	IC_Bacillota_motif_1_1	IC_Bacillota_motif_1_1_pvalue
+Random_seq_147	101	0.646315335471
